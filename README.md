@@ -1,4 +1,4 @@
-# Hello fellow nerd !:
+# Hello fellow nerd !
 - Apiring game developer
 - Currently pursuing a degree in electronics and communications engineering
 - I also play a lot games, watch anime and movies
