@@ -14,11 +14,4 @@
 # 📊 GitHub Stats:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=snowWolf350&theme=dark)
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=snowWolf350)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=snowWolf350&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
