@@ -1,5 +1,5 @@
 # Welcome to my page !
-- Apiring game developer
+- Aspiring game developer
 - Currently pursuing a degree in electronics and communications engineering
 - I also play a lot games, watch anime and movies
 - Do some basic blender work. 
