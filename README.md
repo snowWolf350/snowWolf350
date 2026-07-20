@@ -5,10 +5,10 @@
 - Do some basic blender work. 
 
 
-## 🌐 Socials:
+## My Socials 😁:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranet.v08@gmail.com) 
 
-# 💻 Tech Stack:
+# What i do 🎮:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats:
